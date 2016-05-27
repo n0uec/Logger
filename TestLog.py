@@ -2,7 +2,7 @@
 Logging tester.
 
 Licensed under MIT
-Copyright (c) 2015 Brad Brookes <mnp9mm@gmail.com>
+Copyright (c) 2016 Brad Brookes <mnp9mm@gmail.com>
 """
 import sys
 import logging
